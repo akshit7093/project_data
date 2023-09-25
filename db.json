@@ -1,0 +1,130 @@
+[
+    {
+        "id": "one",
+        "name": "Display",
+        "quantity": 1,
+        "warranty": "6 months",
+        "price": 400,
+        "thumbnail": "cloner\\project_data\\images\\download 10.png"
+    },
+    {
+        "id": "two",
+        "name": "HEAT SINK",
+        "quantity": 1,
+        "warranty": "6 months",
+        "price": 300,
+        "thumbnail": "cloner\\project_data\\images\\download 11.png"
+    },
+    {
+        "id": "three",
+        "name": "BOTTOM COVER",
+        "quantity": 1,
+        "warranty": "6 months",
+        "price": 275,
+        "thumbnail": "cloner\\project_data\\images\\download 12.png"
+    },
+    {
+        "id": "four",
+        "name": "HEATING ELEMENT",
+        "quantity": 1,
+        "warranty": "6 months",
+        "price": 115,
+        "thumbnail": "cloner\\project_data\\images\\download 13.png"
+    },
+    {
+        "id": "five",
+        "name": "WATER PUMP",
+        "quantity": 1,
+        "warranty": "6 months",
+        "price": 320,
+        "thumbnail": "cloner\\project_data\\images\\download 14.png"
+    },
+    {
+        "id": "six",
+        "name": "PROCESSOR",
+        "quantity": 1,
+        "warranty": "6 months",
+        "price": 500,
+        "thumbnail": "cloner\\project_data\\images\\download 16.png"
+    },
+    {
+        "id": "seven",
+        "name": "HARD DRIVE",
+        "quantity": 1,
+        "warranty": "6 months",
+        "price": 275,
+        "thumbnail": "cloner\\project_data\\images\\OIP 14.png"
+    },
+    {
+        "id": "eight",
+        "name": "Display",
+        "quantity": 1,
+        "warranty": "6 months",
+        "price": 400,
+        "thumbnail": "cloner\\project_data\\images\\OIP 17.png"
+    },
+    {
+        "id": "nine",
+        "name": "BATTERY",
+        "quantity": 1,
+        "warranty": "6 months",
+        "price": 250,
+        "thumbnail": "cloner\\project_data\\images\\OIP 22.png"
+    },
+    {
+        "id": "ten",
+        "name": "MOTOR",
+        "quantity": 1,
+        "warranty": "6 months",
+        "price": 220,
+        "thumbnail": "cloner\\project_data\\images\\OIP 23.png"
+    },
+    {
+        "id": "eleven",
+        "name": "TIMER",
+        "quantity": 1,
+        "warranty": "6 months",
+        "price": 78,
+        "thumbnail": "cloner\\project_data\\images\\OIP 24.png"
+    },
+    {
+        "id": "twelve",
+        "name": "MOTHERBOARD",
+        "quantity": 1,
+        "warranty": "6 months",
+        "price": 625,
+        "thumbnail": "cloner\\project_data\\images\\OIP 27.png"
+    },
+    {
+        "id": "thirteen",
+        "name": "KEYBOARD",
+        "quantity": 1,
+        "warranty": "6 months",
+        "price": 100,
+        "thumbnail": "cloner\\project_data\\images\\replacement_front_camera_for_apple_iphone_13_selfie_camera_by_maxbhi_com_89470 1.png"
+    },
+    {
+        "id": "fourteen",
+        "name": "FRONT CAMERA",
+        "quantity": 1,
+        "warranty": "6 months",
+        "price": 555,
+        "thumbnail": "cloner\\project_data\\images\\ringer_loud_speaker_for_apple_iphone_13_by_maxbhi_com_63361 1.png"
+    },
+    {
+        "id": "fifteen",
+        "name": "RINGER",
+        "quantity": 1,
+        "warranty": "6 months",
+        "price": 150,
+        "thumbnail": "cloner\\project_data\\images\\ringer_loud_speaker_for_apple_iphone_13_by_maxbhi_com_63361 1.png"
+    },
+    {
+        "id": "sixteen",
+        "name": "SIM CONNECTOR FLEX",
+        "quantity": 1,
+        "warranty": "6 months",
+        "price": 200,
+        "thumbnail": "cloner\\project_data\\images\\sim_connector_for_apple_iphone_13_by_maxbhi_com_41300 1.png"
+    }
+]
