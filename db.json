@@ -5,7 +5,7 @@
         "quantity": 1,
         "warranty": "6 months",
         "price": 400,
-        "thumbnail": "cloner\\project_data\\images\\download 10.png"
+        "thumbnail": "https://github.com/akshit7093/project_data/blob/main/images/download%2010.png"
     },
     {
         "id": "two",
@@ -13,7 +13,7 @@
         "quantity": 1,
         "warranty": "6 months",
         "price": 300,
-        "thumbnail": "cloner\\project_data\\images\\download 11.png"
+        "thumbnail": "https://github.com/akshit7093/project_data/blob/main/images/download%2011.png"
     },
     {
         "id": "three",
@@ -21,7 +21,7 @@
         "quantity": 1,
         "warranty": "6 months",
         "price": 275,
-        "thumbnail": "cloner\\project_data\\images\\download 12.png"
+        "thumbnail": "https://github.com/akshit7093/project_data/blob/main/images/download%2012.png"
     },
     {
         "id": "four",
@@ -29,7 +29,7 @@
         "quantity": 1,
         "warranty": "6 months",
         "price": 115,
-        "thumbnail": "cloner\\project_data\\images\\download 13.png"
+        "thumbnail": "https://github.com/akshit7093/project_data/blob/main/images/download%2013.png"
     },
     {
         "id": "five",
@@ -37,7 +37,7 @@
         "quantity": 1,
         "warranty": "6 months",
         "price": 320,
-        "thumbnail": "cloner\\project_data\\images\\download 14.png"
+        "thumbnail": "https://github.com/akshit7093/project_data/blob/main/images/download%2014.png"
     },
     {
         "id": "six",
@@ -45,7 +45,7 @@
         "quantity": 1,
         "warranty": "6 months",
         "price": 500,
-        "thumbnail": "cloner\\project_data\\images\\download 16.png"
+        "thumbnail": "https://github.com/akshit7093/project_data/blob/main/images/download%2016.png"
     },
     {
         "id": "seven",
@@ -53,15 +53,15 @@
         "quantity": 1,
         "warranty": "6 months",
         "price": 275,
-        "thumbnail": "cloner\\project_data\\images\\OIP 14.png"
+        "thumbnail": "https://github.com/akshit7093/project_data/blob/main/images/OIP%2014.png"
     },
     {
         "id": "eight",
-        "name": "Display",
+        "name": "Wifi Flex Cable",
         "quantity": 1,
         "warranty": "6 months",
         "price": 400,
-        "thumbnail": "cloner\\project_data\\images\\OIP 17.png"
+        "thumbnail": "https://github.com/akshit7093/project_data/blob/main/images/wifi-flex-cable-for-apple-iphone-13%201.png"
     },
     {
         "id": "nine",
@@ -69,7 +69,7 @@
         "quantity": 1,
         "warranty": "6 months",
         "price": 250,
-        "thumbnail": "cloner\\project_data\\images\\OIP 22.png"
+        "thumbnail": "https://github.com/akshit7093/project_data/blob/main/images/OIP%2017.png"
     },
     {
         "id": "ten",
@@ -77,7 +77,7 @@
         "quantity": 1,
         "warranty": "6 months",
         "price": 220,
-        "thumbnail": "cloner\\project_data\\images\\OIP 23.png"
+        "thumbnail": "https://github.com/akshit7093/project_data/blob/main/images/OIP%2022.png"
     },
     {
         "id": "eleven",
@@ -85,7 +85,7 @@
         "quantity": 1,
         "warranty": "6 months",
         "price": 78,
-        "thumbnail": "cloner\\project_data\\images\\OIP 24.png"
+        "thumbnail": "https://github.com/akshit7093/project_data/blob/main/images/OIP%2023.png"
     },
     {
         "id": "twelve",
@@ -93,7 +93,7 @@
         "quantity": 1,
         "warranty": "6 months",
         "price": 625,
-        "thumbnail": "cloner\\project_data\\images\\OIP 27.png"
+        "thumbnail": "https://github.com/akshit7093/project_data/blob/main/images/OIP%2024.png"
     },
     {
         "id": "thirteen",
@@ -101,7 +101,7 @@
         "quantity": 1,
         "warranty": "6 months",
         "price": 100,
-        "thumbnail": "cloner\\project_data\\images\\replacement_front_camera_for_apple_iphone_13_selfie_camera_by_maxbhi_com_89470 1.png"
+        "thumbnail": "https://github.com/akshit7093/project_data/blob/main/images/OIP%2027.png"
     },
     {
         "id": "fourteen",
@@ -109,7 +109,7 @@
         "quantity": 1,
         "warranty": "6 months",
         "price": 555,
-        "thumbnail": "cloner\\project_data\\images\\ringer_loud_speaker_for_apple_iphone_13_by_maxbhi_com_63361 1.png"
+        "thumbnail": "https://github.com/akshit7093/project_data/blob/main/images/replacement_front_camera_for_apple_iphone_13_selfie_camera_by_maxbhi_com_89470%201.png"
     },
     {
         "id": "fifteen",
@@ -117,7 +117,7 @@
         "quantity": 1,
         "warranty": "6 months",
         "price": 150,
-        "thumbnail": "cloner\\project_data\\images\\ringer_loud_speaker_for_apple_iphone_13_by_maxbhi_com_63361 1.png"
+        "thumbnail": "https://github.com/akshit7093/project_data/blob/main/images/ringer_loud_speaker_for_apple_iphone_13_by_maxbhi_com_63361%201.png"
     },
     {
         "id": "sixteen",
@@ -125,6 +125,6 @@
         "quantity": 1,
         "warranty": "6 months",
         "price": 200,
-        "thumbnail": "cloner\\project_data\\images\\sim_connector_for_apple_iphone_13_by_maxbhi_com_41300 1.png"
+        "thumbnail": "https://github.com/akshit7093/project_data/blob/main/images/sim_connector_for_apple_iphone_13_by_maxbhi_com_41300%201.png"
     }
 ]
